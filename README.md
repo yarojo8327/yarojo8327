@@ -1,12 +1,16 @@
-- 👋 Hola, Soy Yeison A. Rojo
+<h2> Hi, I'm Yeison A. Rojo! 👋</h2>
+<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV45rdFCZ5QQDmTwGhXytFGwN8d4JX9X0HA&usqp=CAU" width="230">
+<p><em>Software Architect at <a href="https://ingeneo.com.co/">Ingeneo S.A.S</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer & DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+### A little more about me...  
 
 
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [C#, Javascript, Typescript, HTML, CSS],
+  tools: [Angular, Node, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
