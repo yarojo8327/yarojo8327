@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yeison A. Rojo! 👋</h2>
-<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV45rdFCZ5QQDmTwGhXytFGwN8d4JX9X0HA&usqp=CAU" width="130">
+<img align='right' src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="130">
 <p><em>Software Architect at <a href="https://ingeneo.com.co/">Ingeneo S.A.S</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer & DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
