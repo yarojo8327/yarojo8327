@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yeison A. Rojo! 👋</h2>
-<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV45rdFCZ5QQDmTwGhXytFGwN8d4JX9X0HA&usqp=CAU" width="230">
+<img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV45rdFCZ5QQDmTwGhXytFGwN8d4JX9X0HA&usqp=CAU" width="130">
 <p><em>Software Architect at <a href="https://ingeneo.com.co/">Ingeneo S.A.S</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer & DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -7,19 +7,15 @@
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const yeison = {
+  pronouns: "he" | "his",
   code: [C#, Javascript, Typescript, HTML, CSS],
-  tools: [Angular, Node, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [.Net Framework, :Net Core, ASP, MVC, WPF, RestAPI, Angular, Node, Jest, DevOps, Docker, Azure],
+  architecture: ["microservices", "Domain Driven Design (DDD)", "design patterns"] 
 }
 ```
+
+### Throw me to the wolves and you'll see me leading the pack
 
 
 
